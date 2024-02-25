@@ -22,5 +22,4 @@ Perform the desired actions as either an administrator or a passenger
 Contribution
 Contributions are welcome! If you have any suggestions or fixes, feel free to open a pull request.
 
-License
-This project is licensed under the MIT License.
+
